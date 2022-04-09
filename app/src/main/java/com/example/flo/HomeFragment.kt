@@ -18,6 +18,11 @@ class HomeFragment : Fragment() {
     ): View? {
         binding = FragmentHomeBinding.inflate(inflater, container, false)
 
+        binding.homeAlbumAlbumImgIv1.setOnClickListener {
+            (context as MainActivity).supportFragmentManager.beginTransaction().replace(R.id.main_frm, AlbumFragment()).commitAllowingStateLoss()  
+            // fragment 변환 패턴
+        }
+
         return binding.root
     }
 }
