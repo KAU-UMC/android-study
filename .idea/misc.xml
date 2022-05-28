@@ -4,11 +4,25 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/UMC/UMC_Android/udemy_android_template_bottomnavi/app/src/main/res/drawable/button_background_flo_color.xml" value="0.1" />
+        <entry key="..\:/UMC/UMC_Android/udemy_android_template_bottomnavi/app/src/main/res/drawable/splash.xml" value="0.149" />
+        <entry key="..\:/UMC/UMC_Android/udemy_android_template_bottomnavi/app/src/main/res/layout/activity_login.xml" value="0.20126926563916592" />
         <entry key="..\:/UMC/UMC_Android/udemy_android_template_bottomnavi/app/src/main/res/layout/activity_main.xml" value="0.30344202898550726" />
-        <entry key="..\:/UMC/UMC_Android/udemy_android_template_bottomnavi/app/src/main/res/layout/activity_song.xml" value="0.17603850050658562" />
+        <entry key="..\:/UMC/UMC_Android/udemy_android_template_bottomnavi/app/src/main/res/layout/activity_signup.xml" value="0.20126926563916592" />
+        <entry key="..\:/UMC/UMC_Android/udemy_android_template_bottomnavi/app/src/main/res/layout/activity_song.xml" value="0.22" />
+        <entry key="..\:/UMC/UMC_Android/udemy_android_template_bottomnavi/app/src/main/res/layout/activity_splash.xml" value="0.2115036231884058" />
         <entry key="..\:/UMC/UMC_Android/udemy_android_template_bottomnavi/app/src/main/res/layout/fragment_album.xml" value="0.30344202898550726" />
+        <entry key="..\:/UMC/UMC_Android/udemy_android_template_bottomnavi/app/src/main/res/layout/fragment_banner.xml" value="0.30344202898550726" />
+        <entry key="..\:/UMC/UMC_Android/udemy_android_template_bottomnavi/app/src/main/res/layout/fragment_detail.xml" value="0.30344202898550726" />
         <entry key="..\:/UMC/UMC_Android/udemy_android_template_bottomnavi/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/UMC/UMC_Android/udemy_android_template_bottomnavi/app/src/main/res/layout/fragment_locker.xml" value="0.2126019945602901" />
+        <entry key="..\:/UMC/UMC_Android/udemy_android_template_bottomnavi/app/src/main/res/layout/fragment_locker_musicfile.xml" value="0.28331822302810517" />
+        <entry key="..\:/UMC/UMC_Android/udemy_android_template_bottomnavi/app/src/main/res/layout/fragment_locker_savedsong.xml" value="0.25611967361740706" />
         <entry key="..\:/UMC/UMC_Android/udemy_android_template_bottomnavi/app/src/main/res/layout/fragment_look.xml" value="0.17603850050658562" />
+        <entry key="..\:/UMC/UMC_Android/udemy_android_template_bottomnavi/app/src/main/res/layout/fragment_song.xml" value="0.30344202898550726" />
+        <entry key="..\:/UMC/UMC_Android/udemy_android_template_bottomnavi/app/src/main/res/layout/fragment_video.xml" value="0.30344202898550726" />
+        <entry key="..\:/UMC/UMC_Android/udemy_android_template_bottomnavi/app/src/main/res/layout/item_album.xml" value="0.3134057971014493" />
+        <entry key="..\:/UMC/UMC_Android/udemy_android_template_bottomnavi/app/src/main/res/layout/item_song.xml" value="0.2642792384406165" />
+        <entry key="..\:/UMC/UMC_Android/udemy_android_template_bottomnavi/app/src/main/res/menu/bottom_nav_menu.xml" value="0.30185185185185187" />
         <entry key="..\:/Users/jungwoo/AndroidStudioProjects/FLO/app/src/main/res/drawable-v24/main_btm_color_selector.xml" value="0.13240740740740742" />
         <entry key="..\:/Users/jungwoo/AndroidStudioProjects/FLO/app/src/main/res/drawable/main_btm_color_selector.xml" value="0.13240740740740742" />
         <entry key="..\:/Users/jungwoo/AndroidStudioProjects/FLO/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
